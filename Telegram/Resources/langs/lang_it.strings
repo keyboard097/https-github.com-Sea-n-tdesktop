@@ -156,7 +156,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_pinned_unpin" = "Togli";
 "lng_pinned_notify" = "Notifica tutti i membri";
 
-"lng_intro_about" = "Benvenuti nell'app ufficiale Telegreat.\nÈ veloce e sicura.";
+"lng_intro_about" = "Benvenuti nell'app non ufficiale Telegreat.\nÈ veloce e sicura.";
 "lng_start_msgs" = "INIZIA A MESSAGGIARE";
 
 "lng_intro_next" = "AVANTI";
@@ -234,7 +234,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_contacts_loading" = "Carico...";
 "lng_contacts_not_found" = "Nessun contatto trovato";
 "lng_dlg_search_for_messages" = "Cerca messaggi";
-"lng_update_telegram" = "Aggiorna Telegram";
+"lng_update_telegram" = "Aggiorna Telegreat";
 "lng_dlg_search_in" = "Cerca messaggi in";
 "lng_dlg_search_from" = "Da: {user}";
 
@@ -288,7 +288,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_section_general" = "Generali";
 "lng_settings_change_lang" = "Cambia lingua";
 "lng_languages" = "Lingue";
-"lng_sure_save_language" = "Telegram si riavvierà per cambiare lingua";
+"lng_sure_save_language" = "Telegreat si riavvierà per cambiare lingua";
 "lng_settings_update_automatically" = "Aggiorna automaticamente";
 "lng_settings_current_version_label" = "Versione {version}:";
 "lng_settings_current_version" = "Versione {version}";
@@ -301,9 +301,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_update_fail" = "Ricerca aggiornamenti fallita :(";
 "lng_settings_workmode_tray" = "Mostra icona nell'area di notifica";
 "lng_settings_workmode_window" = "Mostra icona nella barra applicazioni";
-"lng_settings_auto_start" = "Avvia Telegram all'avvio del sistema";
+"lng_settings_auto_start" = "Avvia Telegreat all'avvio del sistema";
 "lng_settings_start_min" = "Avvia ridotto a icona";
-"lng_settings_add_sendto" = "Inserisci Telegram nel menù «Invia a»";
+"lng_settings_add_sendto" = "Inserisci Telegreat nel menù «Invia a»";
 "lng_settings_section_scale" = "Scala interfaccia";
 "lng_settings_scale_auto" = "Auto ({cur})";
 
@@ -383,7 +383,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_passcode_enter_first" = "Inserisci un codice";
 "lng_passcode_enter_new" = "Inserisci il nuovo codice";
 "lng_passcode_confirm_new" = "Reinserisci il nuovo codice";
-"lng_passcode_about" = "Quando è attivo un codice, appare un'icona col lucchetto sopra la lista delle chat. Premila per bloccare l'app.\n\nNota: se dimentichi il codice, dovrai accedere di nuovo su Telegram Desktop.";
+"lng_passcode_about" = "Quando è attivo un codice, appare un'icona col lucchetto sopra la lista delle chat. Premila per bloccare l'app.\n\nNota: se dimentichi il codice, dovrai accedere di nuovo su Telegreat.";
 "lng_passcode_differ" = "I codici sono diversi";
 "lng_passcode_wrong" = "Codice errato";
 "lng_passcode_is_same" = "Il codice non è stato cambiato";
@@ -700,7 +700,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sure_delete_group" = "Sicuro di voler eliminare questo gruppo? Tutti i membri verranno rimossi e i messaggi verranno persi.";
 
 "lng_message_empty" = "Messaggio vuoto";
-"lng_message_unsupported" = "Questo messaggio non è supportato dalla tua versione di Telegram Desktop. Per favore, aggiorna all'ultima versione dalle Impostazioni o installalo da {link}";
+"lng_message_unsupported" = "Questo messaggio non è supportato dalla tua versione di Telegreat. Per favore, aggiorna all'ultima versione dalle Impostazioni o installalo da {link}";
 
 "lng_duration_seconds#one" = "{count} secondo";
 "lng_duration_seconds#other" = "{count} secondi";
@@ -829,8 +829,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_cancel_edit_post_yes" = "Sì";
 "lng_cancel_edit_post_no" = "No";
 
-"lng_bot_share_location_unavailable" = "Spiacenti, la condivisione della posizione non è al momento disponibile su Telegram Desktop.";
-"lng_bot_inline_geo_unavailable" = "Spiacenti, questo bot richiede la condivisione della posizione. Non è disponibile su Telegram Desktop.";
+"lng_bot_share_location_unavailable" = "Spiacenti, la condivisione della posizione non è al momento disponibile su Telegreat.";
+"lng_bot_inline_geo_unavailable" = "Spiacenti, questo bot richiede la condivisione della posizione. Non è disponibile su Telegreat.";
 "lng_bot_share_phone" = "Condividere il numero di telefono?";
 "lng_bot_share_phone_confirm" = "Condividi";
 
@@ -1180,7 +1180,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_box_leave" = "Lascia";
 
 "lng_about_version" = "versione {version}";
-"lng_about_text_1" = "App ufficiale basata sulle [a href=\"https://core.telegram.org/api\"]API di Telegram[/a]\nper offrire velocità e sicurezza.";
+"lng_about_text_1" = "App non ufficiale basata sulle [a href=\"https://core.telegram.org/api\"]API di Telegram[/a]\nper offrire velocità e sicurezza.";
 "lng_about_text_2" = "Questo software è sotto licenza [a href=\"https://github.com/Sea-n/tdesktop/blob/master/LICENSE\"]GNU GPL[/a] versione 3.\nIl source code è disponibile su [a href=\"https://github.com/Sea-n/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Visita le {faq_open}domande frequenti{faq_close} per maggiori info.";
 "lng_about_done" = "Fatto";
@@ -1218,7 +1218,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_new_authorization" = "{name},\nAbbiamo rilevato un accesso al tuo account da un nuovo dispositivo {day}, {date} alle {time}\n\nDispositivo: {device}\nPosizione: {location}\n\nSe non sei tu, puoi andare nelle Impostazioni – Mostra tutte le sessioni e terminare quella sessione.\n\nSe credi che qualcuno si sia collegato al tuo account contro il tuo volere, puoi attivare la verifica in due passaggi nelle Impostazioni. \n\nCordiali saluti, \nil team di Telegram";
 
-"lng_new_version_wrap" = "Telegram Desktop si è aggiornato alla versione {version}\n\n{changes}\n\nLa cronologia degli aggiornamenti è disponibile qui:\n{link}";
+"lng_new_version_wrap" = "Telegreat si è aggiornato alla versione {version}\n\n{changes}\n\nLa cronologia degli aggiornamenti è disponibile qui:\n{link}";
 "lng_new_version_minor" = "— Risoluzione di problemi e altri miglioramenti minori";
 "lng_new_version_text" = "— Videomessaggi migliorati: barra del progresso attorno al video durante la riproduzione, supporto picture-in-picture, conto alla rovescia per la durata.\n— Ora i messaggi vocali e i videomessaggi vengono riprodotti uno dopo l'altro";
 
@@ -1478,5 +1478,29 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mac_menu_new_group" = "Nuovo gruppo";
 "lng_mac_menu_new_channel" = "Nuovo canale";
 "lng_mac_menu_show" = "Mostra Telegram";
+
+
+"lng_stickers_export" = "Esporta";
+"lng_stickers_export_copied" = "Link copiati negli appunti.";
+
+"lng_telegreat_setting" = "Impostazioni Telegreat";
+"lng_telegreat_setting_unstable" = "Funzioni instabili (sviluppatore)";
+"lng_telegreat_setting_callback" = "Mostra callback data nelle tastiere inline";
+"lng_telegreat_setting_username" = "Mostra [@username] accanto ai nomi";
+"lng_telegreat_setting_ignore" = "Ignora utenti bloccati";
+"lng_telegreat_setting_everyuser" = "Ricevi notifiche da @admin e @everyuser";
+"lng_telegreat_setting_typing" = "Notifiche Toast";
+
+"lng_telegreat_online_toast" = "In linea";
+"lng_telegreat_typing_toast_all" = "Sta scrivendo (Altri)";
+"lng_telegreat_typing_toast_contact" = "Sta scrivendo (Contatti)";
+"lng_telegreat_typing_desc" = "La durata delle notifiche toast può variare\na seconda dei messaggi ricevuti.";
+
+"lng_telegreat_chat_type" = "Chat";
+"lng_telegreat_user" = "Utenti";
+"lng_telegreat_group" = "Gruppi";
+"lng_telegreat_supergroup" = "Supergruppi";
+"lng_telegreat_channel" = "Canali";
+"lng_telegreat_bot" = "Bot";
 
 // Keys finished
